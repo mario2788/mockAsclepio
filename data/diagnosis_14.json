@@ -1,0 +1,838 @@
+[
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 0,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 1,
+    "principal_diagnosis": {
+      "name": "Insuficiencia Cardiaca",
+      "snomed_code": "84114007",
+      "snomed_name": "Heart failure (disorder)",
+      "cie_10_code": "Insuficiencia Cardiaca, No Especificada",
+      "specific_diagnosis": {
+        "name": "crónica descompensada",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 2,
+    "principal_diagnosis": {
+      "name": "Sepsis",
+      "snomed_code": "91302008",
+      "snomed_name": "Systemic infection (disorder)",
+      "cie_10_code": "Septicemia, No Especificada",
+      "specific_diagnosis": {
+        "name": "Colección/ absceso intra-abdominal",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 3,
+    "principal_diagnosis": {
+      "name": "Trauma",
+      "snomed_code": "417746004",
+      "snomed_name": "Traumatic injury (disorder",
+      "cie_10_code": "Traumatismo, No Especificado",
+      "specific_diagnosis": {
+        "name": "Politraumatismo por accidente de tránsito",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Estable"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 4,
+    "principal_diagnosis": {
+      "name": "Post-operatorio",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "Otros estados postquirúrgicos especificados",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 5,
+    "principal_diagnosis": {
+      "name": "Insuficiencia renal",
+      "snomed_code": "42030000",
+      "snomed_name": "Disease of the genitourinary system (disorder)",
+      "cie_10_code": "Trastorno Del Sistema Urinario, No Especificado",
+      "specific_diagnosis": {
+        "name": "Insuficiencia renal aguda renal",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 6,
+    "principal_diagnosis": {
+      "name": "Post-operatorio",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "Otros estados postquirúrgicos especificados",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 7,
+    "principal_diagnosis": {
+      "name": "Meningitis",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "Meningitis debida a otras causas y a las no especificadas",
+      "specific_diagnosis": {
+        "name": "Bacteriana",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": "Meningitis bacteriana, no especificada"
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 8,
+    "principal_diagnosis": {
+      "name": "Accidente cerebrovascular",
+      "snomed_code": "270883006",
+      "snomed_name": "Stroke and cerebrovascular accident unspecified (disorder)",
+      "cie_10_code": "Accidente Vascular Encefalico Agudo, No Especificado Como Hemorragico O Isquemico",
+      "specific_diagnosis": {
+        "name": "Accidente cerebrovascular isquémico",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 9,
+    "principal_diagnosis": {
+      "name": "Insuficiencia Cardiaca",
+      "snomed_code": "84114007",
+      "snomed_name": "Heart failure (disorder)",
+      "cie_10_code": "Insuficiencia Cardiaca, No Especificada",
+      "specific_diagnosis": {
+        "name": "crónica descompensada",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 10,
+    "principal_diagnosis": {
+      "name": "Post-operatorio",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "Otros estados postquirúrgicos especificados",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Estable"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 11,
+    "principal_diagnosis": {
+      "name": "Accidente cerebrovascular",
+      "snomed_code": "270883006",
+      "snomed_name": "Stroke and cerebrovascular accident unspecified (disorder)",
+      "cie_10_code": "Accidente Vascular Encefalico Agudo, No Especificado Como Hemorragico O Isquemico",
+      "specific_diagnosis": {
+        "name": "Accidente cerebrovascular isquémico",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 12,
+    "principal_diagnosis": {
+      "name": "Post-operatorio",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "Otros estados postquirúrgicos especificados",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 13,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 14,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 15,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 16,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 17,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 18,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 19,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 20,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 21,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 0,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 1,
+    "principal_diagnosis": {
+      "name": "Insuficiencia Cardiaca",
+      "snomed_code": "84114007",
+      "snomed_name": "Heart failure (disorder)",
+      "cie_10_code": "Insuficiencia Cardiaca, No Especificada",
+      "specific_diagnosis": {
+        "name": "crónica descompensada",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 2,
+    "principal_diagnosis": {
+      "name": "Sepsis",
+      "snomed_code": "91302008",
+      "snomed_name": "Systemic infection (disorder)",
+      "cie_10_code": "Septicemia, No Especificada",
+      "specific_diagnosis": {
+        "name": "Colección/ absceso intra-abdominal",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 3,
+    "principal_diagnosis": {
+      "name": "Trauma",
+      "snomed_code": "417746004",
+      "snomed_name": "Traumatic injury (disorder",
+      "cie_10_code": "Traumatismo, No Especificado",
+      "specific_diagnosis": {
+        "name": "Politraumatismo por accidente de tránsito",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Estable"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 4,
+    "principal_diagnosis": {
+      "name": "Post-operatorio",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "Otros estados postquirúrgicos especificados",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 5,
+    "principal_diagnosis": {
+      "name": "Insuficiencia renal",
+      "snomed_code": "42030000",
+      "snomed_name": "Disease of the genitourinary system (disorder)",
+      "cie_10_code": "Trastorno Del Sistema Urinario, No Especificado",
+      "specific_diagnosis": {
+        "name": "Insuficiencia renal aguda renal",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 6,
+    "principal_diagnosis": {
+      "name": "Post-operatorio",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "Otros estados postquirúrgicos especificados",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 7,
+    "principal_diagnosis": {
+      "name": "Meningitis",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "Meningitis debida a otras causas y a las no especificadas",
+      "specific_diagnosis": {
+        "name": "Bacteriana",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": "Meningitis bacteriana, no especificada"
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 8,
+    "principal_diagnosis": {
+      "name": "Accidente cerebrovascular",
+      "snomed_code": "270883006",
+      "snomed_name": "Stroke and cerebrovascular accident unspecified (disorder)",
+      "cie_10_code": "Accidente Vascular Encefalico Agudo, No Especificado Como Hemorragico O Isquemico",
+      "specific_diagnosis": {
+        "name": "Accidente cerebrovascular isquémico",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 9,
+    "principal_diagnosis": {
+      "name": "Insuficiencia Cardiaca",
+      "snomed_code": "84114007",
+      "snomed_name": "Heart failure (disorder)",
+      "cie_10_code": "Insuficiencia Cardiaca, No Especificada",
+      "specific_diagnosis": {
+        "name": "crónica descompensada",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 10,
+    "principal_diagnosis": {
+      "name": "Post-operatorio",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "Otros estados postquirúrgicos especificados",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Estable"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 11,
+    "principal_diagnosis": {
+      "name": "Accidente cerebrovascular",
+      "snomed_code": "270883006",
+      "snomed_name": "Stroke and cerebrovascular accident unspecified (disorder)",
+      "cie_10_code": "Accidente Vascular Encefalico Agudo, No Especificado Como Hemorragico O Isquemico",
+      "specific_diagnosis": {
+        "name": "Accidente cerebrovascular isquémico",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 14,
+    "bed_id": 12,
+    "principal_diagnosis": {
+      "name": "Post-operatorio",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "Otros estados postquirúrgicos especificados",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 13,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 14,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 15,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 16,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 17,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 18,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 19,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 20,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 14,
+    "bed_id": 21,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  }
+]

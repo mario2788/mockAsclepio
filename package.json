@@ -1,0 +1,12 @@
+{
+  "name": "mock-asclepio",
+  "version": "1.0.0",
+  "description": "Mock de los datos preliminares de asclepio",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start":"node app.js"
+  },
+  "author": "Mario Cuellar",
+  "license": "ISC"
+}

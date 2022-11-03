@@ -1,0 +1,382 @@
+[
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 4,
+    "bed_id": 0,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 4,
+    "bed_id": 1,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 2,
+    "principal_diagnosis": {
+      "name": "Cardiopatía isquémica",
+      "snomed_code": "413439005",
+      "snomed_name": "Acute ischemic heart disease (disorder)",
+      "cie_10_code": "Enfermedad Isquemica Aguda Del Corazon, No Especificada",
+      "specific_diagnosis": {
+        "name": "SCA c/ SDST",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 3,
+    "principal_diagnosis": {
+      "name": "Síndrome de compromiso de conciencia",
+      "snomed_code": "371632003",
+      "snomed_name": "Coma (disorder)",
+      "cie_10_code": "Coma, No Especificado",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 4,
+    "principal_diagnosis": {
+      "name": "Arritmia",
+      "snomed_code": "698247007",
+      "snomed_name": "Cardiac arrhythmia (disorder)",
+      "cie_10_code": "Arritmia Cardiaca, No Especificada",
+      "specific_diagnosis": {
+        "name": "AC X FA",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 5,
+    "principal_diagnosis": {
+      "name": "Tumor/ Cáncer ",
+      "snomed_code": "108369006",
+      "snomed_name": "Tumor",
+      "cie_10_code": "Tumor Maligno De Sitios No Especificados",
+      "specific_diagnosis": {
+        "name": "No clasificado",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 6,
+    "principal_diagnosis": {
+      "name": "Accidente cerebrovascular",
+      "snomed_code": "270883006",
+      "snomed_name": "Stroke and cerebrovascular accident unspecified (disorder)",
+      "cie_10_code": "Accidente Vascular Encefalico Agudo, No Especificado Como Hemorragico O Isquemico",
+      "specific_diagnosis": {
+        "name": "Accidente cerebrovascular isquémico",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Estable"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 7,
+    "principal_diagnosis": {
+      "name": "Insuficiencia respiratoria",
+      "snomed_code": "50043002",
+      "snomed_name": "Disease of respiratory system (disorder)",
+      "cie_10_code": "Trastorno Respiratorio, No Especificado",
+      "specific_diagnosis": {
+        "name": "COVID-19",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": "COVID-19"
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 4,
+    "bed_id": 8,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 9,
+    "principal_diagnosis": {
+      "name": "Hemorragia digestiva",
+      "snomed_code": "27719009",
+      "snomed_name": "Acute gastrointestinal hemorrhage (disorder)",
+      "cie_10_code": "Hemorragia Gastrointestinal, No Especificada",
+      "specific_diagnosis": {
+        "name": "Hemorragia digestiva alta",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 4,
+    "bed_id": 0,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 4,
+    "bed_id": 1,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 2,
+    "principal_diagnosis": {
+      "name": "Cardiopatía isquémica",
+      "snomed_code": "413439005",
+      "snomed_name": "Acute ischemic heart disease (disorder)",
+      "cie_10_code": "Enfermedad Isquemica Aguda Del Corazon, No Especificada",
+      "specific_diagnosis": {
+        "name": "SCA c/ SDST",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 3,
+    "principal_diagnosis": {
+      "name": "Síndrome de compromiso de conciencia",
+      "snomed_code": "371632003",
+      "snomed_name": "Coma (disorder)",
+      "cie_10_code": "Coma, No Especificado",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 4,
+    "principal_diagnosis": {
+      "name": "Arritmia",
+      "snomed_code": "698247007",
+      "snomed_name": "Cardiac arrhythmia (disorder)",
+      "cie_10_code": "Arritmia Cardiaca, No Especificada",
+      "specific_diagnosis": {
+        "name": "AC X FA",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 5,
+    "principal_diagnosis": {
+      "name": "Tumor/ Cáncer ",
+      "snomed_code": "108369006",
+      "snomed_name": "Tumor",
+      "cie_10_code": "Tumor Maligno De Sitios No Especificados",
+      "specific_diagnosis": {
+        "name": "No clasificado",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 6,
+    "principal_diagnosis": {
+      "name": "Accidente cerebrovascular",
+      "snomed_code": "270883006",
+      "snomed_name": "Stroke and cerebrovascular accident unspecified (disorder)",
+      "cie_10_code": "Accidente Vascular Encefalico Agudo, No Especificado Como Hemorragico O Isquemico",
+      "specific_diagnosis": {
+        "name": "Accidente cerebrovascular isquémico",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Estable"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 7,
+    "principal_diagnosis": {
+      "name": "Insuficiencia respiratoria",
+      "snomed_code": "50043002",
+      "snomed_name": "Disease of respiratory system (disorder)",
+      "cie_10_code": "Trastorno Respiratorio, No Especificado",
+      "specific_diagnosis": {
+        "name": "COVID-19",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": "COVID-19"
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 4,
+    "bed_id": 8,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 4,
+    "bed_id": 9,
+    "principal_diagnosis": {
+      "name": "Hemorragia digestiva",
+      "snomed_code": "27719009",
+      "snomed_name": "Acute gastrointestinal hemorrhage (disorder)",
+      "cie_10_code": "Hemorragia Gastrointestinal, No Especificada",
+      "specific_diagnosis": {
+        "name": "Hemorragia digestiva alta",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  }
+]

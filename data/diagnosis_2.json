@@ -1,0 +1,420 @@
+[
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 0,
+    "principal_diagnosis": {
+      "name": "Síndrome de compromiso de conciencia",
+      "snomed_code": "371632003",
+      "snomed_name": "Coma (disorder)",
+      "cie_10_code": "Coma, No Especificado",
+      "specific_diagnosis": {
+        "name": "Encefalopatía hipóxica-isquémica",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Sin clasificar"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 1,
+    "principal_diagnosis": {
+      "name": "Hemorragia digestiva",
+      "snomed_code": "27719009",
+      "snomed_name": "Acute gastrointestinal hemorrhage (disorder)",
+      "cie_10_code": "Hemorragia Gastrointestinal, No Especificada",
+      "specific_diagnosis": {
+        "name": "Hemorragia digestiva alta",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 2,
+    "principal_diagnosis": {
+      "name": "Abdomen agudo quirúrgico",
+      "snomed_code": "9209005",
+      "snomed_name": "Acute abdomen (disorder)",
+      "cie_10_code": "Abdomen Agudo",
+      "specific_diagnosis": {
+        "name": "Peritonitis aguda",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 3,
+    "principal_diagnosis": {
+      "name": "Insuficiencia Cardiaca",
+      "snomed_code": "84114007",
+      "snomed_name": "Heart failure (disorder)",
+      "cie_10_code": "Insuficiencia Cardiaca, No Especificada",
+      "specific_diagnosis": {
+        "name": "crónica descompensada",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 2,
+    "bed_id": 4,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 5,
+    "principal_diagnosis": {
+      "name": "Síndrome de compromiso de conciencia",
+      "snomed_code": "371632003",
+      "snomed_name": "Coma (disorder)",
+      "cie_10_code": "Coma, No Especificado",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 6,
+    "principal_diagnosis": {
+      "name": "Trauma",
+      "snomed_code": "417746004",
+      "snomed_name": "Traumatic injury (disorder",
+      "cie_10_code": "Traumatismo, No Especificado",
+      "specific_diagnosis": {
+        "name": "Politraumatismo por accidente de tránsito",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 7,
+    "principal_diagnosis": {
+      "name": "Accidente cerebrovascular",
+      "snomed_code": "270883006",
+      "snomed_name": "Stroke and cerebrovascular accident unspecified (disorder)",
+      "cie_10_code": "Accidente Vascular Encefalico Agudo, No Especificado Como Hemorragico O Isquemico",
+      "specific_diagnosis": {
+        "name": "Accidente cerebrovascular isquémico",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 2,
+    "bed_id": 8,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 9,
+    "principal_diagnosis": {
+      "name": "Insuficiencia respiratoria",
+      "snomed_code": "50043002",
+      "snomed_name": "Disease of respiratory system (disorder)",
+      "cie_10_code": "Trastorno Respiratorio, No Especificado",
+      "specific_diagnosis": {
+        "name": "Obstrucción de vía aérea alta",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Estable"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 10,
+    "principal_diagnosis": {
+      "name": "Síndrome de compromiso de conciencia",
+      "snomed_code": "371632003",
+      "snomed_name": "Coma (disorder)",
+      "cie_10_code": "Coma, No Especificado",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 0,
+    "principal_diagnosis": {
+      "name": "Síndrome de compromiso de conciencia",
+      "snomed_code": "371632003",
+      "snomed_name": "Coma (disorder)",
+      "cie_10_code": "Coma, No Especificado",
+      "specific_diagnosis": {
+        "name": "Encefalopatía hipóxica-isquémica",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Sin clasificar"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 1,
+    "principal_diagnosis": {
+      "name": "Hemorragia digestiva",
+      "snomed_code": "27719009",
+      "snomed_name": "Acute gastrointestinal hemorrhage (disorder)",
+      "cie_10_code": "Hemorragia Gastrointestinal, No Especificada",
+      "specific_diagnosis": {
+        "name": "Hemorragia digestiva alta",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 2,
+    "principal_diagnosis": {
+      "name": "Abdomen agudo quirúrgico",
+      "snomed_code": "9209005",
+      "snomed_name": "Acute abdomen (disorder)",
+      "cie_10_code": "Abdomen Agudo",
+      "specific_diagnosis": {
+        "name": "Peritonitis aguda",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 3,
+    "principal_diagnosis": {
+      "name": "Insuficiencia Cardiaca",
+      "snomed_code": "84114007",
+      "snomed_name": "Heart failure (disorder)",
+      "cie_10_code": "Insuficiencia Cardiaca, No Especificada",
+      "specific_diagnosis": {
+        "name": "crónica descompensada",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 2,
+    "bed_id": 4,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 5,
+    "principal_diagnosis": {
+      "name": "Síndrome de compromiso de conciencia",
+      "snomed_code": "371632003",
+      "snomed_name": "Coma (disorder)",
+      "cie_10_code": "Coma, No Especificado",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 6,
+    "principal_diagnosis": {
+      "name": "Trauma",
+      "snomed_code": "417746004",
+      "snomed_name": "Traumatic injury (disorder",
+      "cie_10_code": "Traumatismo, No Especificado",
+      "specific_diagnosis": {
+        "name": "Politraumatismo por accidente de tránsito",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 7,
+    "principal_diagnosis": {
+      "name": "Accidente cerebrovascular",
+      "snomed_code": "270883006",
+      "snomed_name": "Stroke and cerebrovascular accident unspecified (disorder)",
+      "cie_10_code": "Accidente Vascular Encefalico Agudo, No Especificado Como Hemorragico O Isquemico",
+      "specific_diagnosis": {
+        "name": "Accidente cerebrovascular isquémico",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Grave"
+  },
+  {
+    "result": 2,
+    "message": "esa visita no existe",
+    "medical_unit_id": 2,
+    "bed_id": 8,
+    "principal_diagnosis": {
+      "name": "",
+      "snomed_code": "",
+      "snomed_name": "",
+      "cie_10_code": "",
+      "specific_diagnosis": {
+        "name": "",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": ""
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 9,
+    "principal_diagnosis": {
+      "name": "Insuficiencia respiratoria",
+      "snomed_code": "50043002",
+      "snomed_name": "Disease of respiratory system (disorder)",
+      "cie_10_code": "Trastorno Respiratorio, No Especificado",
+      "specific_diagnosis": {
+        "name": "Obstrucción de vía aérea alta",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "Estable"
+  },
+  {
+    "result": 0,
+    "message": "",
+    "medical_unit_id": 2,
+    "bed_id": 10,
+    "principal_diagnosis": {
+      "name": "Síndrome de compromiso de conciencia",
+      "snomed_code": "371632003",
+      "snomed_name": "Coma (disorder)",
+      "cie_10_code": "Coma, No Especificado",
+      "specific_diagnosis": {
+        "name": "Otra",
+        "snomed_code": "",
+        "snomed_name": "",
+        "cie_10_code": ""
+      }
+    },
+    "status": "De cuidado"
+  }
+]

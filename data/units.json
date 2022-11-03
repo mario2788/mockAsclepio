@@ -1,0 +1,32 @@
+{
+  "result": 0,
+  "message": "",
+  "count": 5,
+  "medical_units": [
+    {
+      "medical_unit_id": 2,
+      "medical_unit_name": "UCI 1",
+      "number_of_beds": 11
+    },
+    {
+      "medical_unit_id": 16,
+      "medical_unit_name": "UTI (Borquez Silva-Cardiovascular)",
+      "number_of_beds": 12
+    },
+    {
+      "medical_unit_id": 14,
+      "medical_unit_name": "UTI (Hector Ducci)",
+      "number_of_beds": 22
+    },
+    {
+      "medical_unit_id": 3,
+      "medical_unit_name": "UTI (UTIM)",
+      "number_of_beds": 22
+    },
+    {
+      "medical_unit_id": 4,
+      "medical_unit_name": "UTI (UTIQ)",
+      "number_of_beds": 10
+    }
+  ]
+}
